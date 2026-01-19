@@ -1,0 +1,49 @@
+{
+  "login": {
+    "register_phone": "0359667694",
+    "register_name": "Chu Vũ Tình",
+    "register_email": "cvtinh@gmail.com",
+    "register_address": "244 Minh Khai, Hai Bà Trưng, Hà Nội",
+    "register_referral_code": "100000413",
+    "register_phone_wrong": "0834219362",
+    "register_phone_correct": "0359667694",
+    "autoba_tk": "autoba",
+    "autoba_mk": "autoba@1234"
+  },
+  "home_page_g7": {
+    "note": "Trường test ghi chú đặt xe",
+    "search_group": "43C18190",
+    "check_search_group": "43C18190_C",
+    "check_search_group1": "43C11241_C",
+    "sodienthoai": "0835210360",
+    "bietdanh2": "Ohhh Noo",
+    "electronic_invoice_tax_code": "3500806640",
+    "electronic_invoice_name": "Công ty TNHH Giang Thành",
+    "electronic_invoice_address": "20 P. Xã Đàn, Phương Liên, Đống Đa, Hà Nội, Việt Nam",
+    "electronic_invoice_email": "giangthanh0282@gmail.com",
+    "electronic_invoice_full_name": "Giang Thành",
+    "electronic_invoice_card": "19002882",
+    "check_open_map": "40 Bằng Liệt"
+  },
+    "favorite_spot_g7": {
+    "add_new": "Cafe Tề Nguyên",
+    "add_new_edit": "Cafe Tề Nguyên đã sửa",
+    "bietdanh2": "Ohhh Noo"
+  },
+  "home_drive": {
+    "note": "Trường test ghi chú tạo cuốc",
+    "location2": "Ngõ 105 Bạch Mai",
+    "bietdanh2": "Ohhh Noo",
+    "note1": "Trường test tài xế thêm ghi chú"
+  },
+  "web_app": {
+    "address1": "40 Ngõ 40 Tạ Quang Bửu",
+    "address2": "120 Tam Trinh",
+    "address3": "40 Bạch Mai",
+    "address4": "169 Ngõ 169 Hoàng Mai",
+    "search_address1": "40 Tạ Quang Bửu",
+    "search_address2": "120 Đường Tam Trinh",
+    "search_address3": "40 Phố Bạch Mai",
+    "search_address4": "169 Đường Hoàng Mai"
+  }
+}

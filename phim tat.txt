@@ -1,0 +1,3 @@
+tắt f1 > mở cmd quyền admin > "takeown /f C:\Windows\HelpPane.exe
+icacls C:\Windows\HelpPane.exe /grant administrators:F
+ren C:\Windows\HelpPane.exe HelpPane.old"
